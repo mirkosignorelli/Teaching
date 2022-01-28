@@ -4,7 +4,7 @@
 
 * **Rents data** : [`rents.csv`](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/MathStat2/rents.csv). 
 This dataset contains a subset of 991 rows [from a larger dataset posted on Kaggle](https://www.kaggle.com/rkb0023/houserentpredictiondataset).
-* The `cars` and `heights` datasets are respectively part of base `R` and of the `brolgar` package.
+* The `cars` and `heights` datasets are respectively part of base `R` and of the [`brolgar` package](https://cran.r-project.org/web/packages/brolgar/index.html).
 
 ## Lecture 2
 
