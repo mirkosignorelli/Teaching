@@ -1,5 +1,7 @@
 # Datasets for Mathematical Statistics 2 (module on Longitudinal Data Analysis)
 
+This repository lists the datasets used during the course on **Longitudinal Data Analysis** that I teach as part of **Mathematical Statistics 2** (bachelor programme in Mathematics).
+
 ## Lecture 1
 
 * **Rents data** : [`rents.csv`](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/MathStat2/rents.csv). 
