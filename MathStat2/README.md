@@ -1,4 +1,4 @@
-# Datasets for Mathematical Statistics 2
+# Datasets for Mathematical Statistics 2 (module on Longitudinal Data Analysis)
 
 ## Lecture 1
 
