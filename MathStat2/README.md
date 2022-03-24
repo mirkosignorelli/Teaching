@@ -15,3 +15,5 @@ This dataset contains a subset of 991 rows [from a larger dataset posted on Kagg
 * The `gala` dataset is part of the [`R` package `faraway`](https://cran.r-project.org/web/packages/faraway/index.html), which complements the book ["Extending the Linear Model with R"](https://julianfaraway.github.io/faraway/ELM/)
 
 ## Lecture 3 (GLMMs)
+
+* The `bolus` dataset is available in the [`cold` package](https://cran.r-project.org/web/packages/cold/index.html).
