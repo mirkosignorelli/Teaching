@@ -2,6 +2,10 @@
 
 This repository lists the datasets used during the short course on **Longitudinal Data Analysis** that I teach as part of **Mathematical Statistics 2** (bachelor programme in Mathematics). The course material is available through Brightspace.
 
+## Course material
+
+All course material is available on the Brightspace page of the course.
+
 ## Lecture 1 (linear regression and LMMs)
 
 * **Rents data** : [`rents.csv`](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/MathStat2/rents.csv). 
