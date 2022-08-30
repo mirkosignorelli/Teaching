@@ -8,5 +8,5 @@ All course material is available on the Brightspace page of the course.
 
 ## Datasets and other files
 
-* [`irish_polls.csv`](https://github.com/mirkosignorelli/Teaching/blob/main/SCwR_course/irish_polls.csv) (L5)
+* [`irish_polls.csv`](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/SCwR_course/irish_polls.csv) (L5)
 * [`academiegebouw.jpg`](https://github.com/mirkosignorelli/Teaching/blob/main/SCwR_course/academiegebouw.jpg) (L7)
