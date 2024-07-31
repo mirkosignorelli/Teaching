@@ -15,5 +15,5 @@ All course material is available on the Brightspace page of the course.
 ## Datasets and files used in the assignments
 
 * [Coca Cola stock data](https://github.com/kalilurrahman/coca-colastockdata) (A1)
-* [Airbnb_Ragusa.csv](https://github.com/mirkosignorelli/Teaching/blob/main/SCwR_course/Airbnb_Ragusa.csv) (A2)
-* [AAPL_complete.csv](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/SCwR_course/AAPL_complete.csv) (A2)
+* [`Airbnb_Ragusa.csv`](https://github.com/mirkosignorelli/Teaching/blob/main/SCwR_course/Airbnb_Ragusa.csv) (A2)
+* [`AAPL_complete.csv`](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/SCwR_course/AAPL_complete.csv) (A2)
