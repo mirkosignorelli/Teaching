@@ -18,3 +18,5 @@ This repository lists the datasets used during the short course on **Longitudina
 * The `gala` dataset is part of the `faraway` package
 
 ## Lecture 4
+
+* The `bolus` dataset is part of the `cold` package
