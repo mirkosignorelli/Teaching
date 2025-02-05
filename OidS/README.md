@@ -6,7 +6,7 @@ This repository lists the datasets used during the short course on **Longitudina
 
 * The `Rateprof` dataset is part of the `alr4` package
 * The `cars` dataset is part of base `R`
-* **Rents data** : [`rents.csv`](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/MathStat2/rents.csv). Source: this dataset contains a subset of 991 rows [from a larger dataset posted on Kaggle](https://www.kaggle.com/rkb0023/houserentpredictiondataset).
+* **Rents data** : [`rents.csv`](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/OidS/rents.csv). Source: this dataset contains a subset of 991 rows [from a larger dataset posted on Kaggle](https://www.kaggle.com/rkb0023/houserentpredictiondataset).
 
 ## Lecture 2
 
