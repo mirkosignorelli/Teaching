@@ -22,4 +22,4 @@ This dataset contains a subset of 991 rows [from a larger dataset posted on Kagg
 ## Lecture 3 (GLMMs)
 
 * The `bolus` dataset is available in the [`cold` package](https://cran.r-project.org/web/packages/cold/index.html)
-* * **Union data**: [union.txt](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/OidS/union.txt). Notice that fitting a GLMM on the whole dataset could be time-consuming, so you may want to work on a subset of the subject identifiers.
+* **Union data**: [union.txt](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/OidS/union.txt). Notice that fitting a GLMM on the whole dataset could be time-consuming, so you may want to work on a subset of the subject identifiers.
