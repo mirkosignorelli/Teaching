@@ -2,5 +2,25 @@
 
 This repository gathers the datasets used during the course *Computational Statistics and Longitudinal Data Analysis (CSLDA)* that I teach for the Bachelor in Wiskunde and Master in Mathematics. The course material is published on the course's page on Brightspace.
 
+Did you notice a missing dataset? Please send us an email!
+
 ## Week 1
-* [Coca Cola stock data](https://github.com/kalilurrahman/coca-colastockdata) (P1)
+* `MASS::quine` (L)
+* `iris` (P)
+* [Coca Cola stock data](https://github.com/kalilurrahman/coca-colastockdata) (P)
+
+## Week 2
+* `cars` (L+P)
+* `alr4::Rateprof` (L+P)
+* [rents.csv](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/MathStat2/rents.csv) (P)
+
+## Week 3
+* [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L+P)
+
+## Week 4
+
+## Week 5
+
+## Week 6
+
+... tbc
