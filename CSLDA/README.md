@@ -2,7 +2,7 @@
 
 This repository gathers the datasets used during the course *Computational Statistics and Longitudinal Data Analysis (CSLDA)* that I teach for the Bachelor in Wiskunde and Master in Mathematics. The course material is published on the course's page on Brightspace.
 
-Did you notice a missing dataset? Please send us an email!
+Did you notice that a dataset used during the course is missing on this page? Please send us an email to let us know!
 
 ## Week 1
 * `MASS::quine` (L)
@@ -18,6 +18,9 @@ Did you notice a missing dataset? Please send us an email!
 * [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L+P)
 
 ## Week 4
+* [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L+P)
+* `count::rwm1984` (L)
+* `faraway::gala` (P)
 
 ## Week 5
 
