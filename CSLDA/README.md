@@ -22,8 +22,12 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 * `count::rwm1984` (L)
 * `faraway::gala` (P)
 
-## Week 5
+## Week 8
 
-## Week 6
+* 
+
+## Week 9
+
+*
 
 ... tbc
