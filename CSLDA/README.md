@@ -29,5 +29,13 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 ## Week 9
 
 * Excel file used for the examples in L9: [dataframesForL09.xlsx](https://github.com/mirkosignorelli/Teaching/raw/refs/heads/main/CSLDA/dataframesForL09.xlsx)
+* `brolgar::wages` and `brolgar::heights` (L)
+
+## Week 10
+
+* `brolgar::heights` (L)
+* 
+
+
 
 ... tbc
