@@ -24,7 +24,8 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 
 ## Week 8
 
-* 
+* * [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L)
+
 
 ## Week 9
 
