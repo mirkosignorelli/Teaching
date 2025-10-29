@@ -34,8 +34,9 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 
 ## Week 10
 
-* `brolgar::heights` (L)
-* 
+* `brolgar::wages` (P) and `brolgar::heights` (L+P)
+
+
 
 
 
