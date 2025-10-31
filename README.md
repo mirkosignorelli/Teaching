@@ -1,3 +1,3 @@
 # Teaching
 
-Course overview [here](https://mirkosignorelli.github.io/teaching.html)
+Courses overview [here](https://mirkosignorelli.github.io/teaching.html)
