@@ -1,6 +1,6 @@
-# Datasets for Onderwerpen in de Statistiek: module on Longitudinal Data Analysis
+# Datasets for Onderwerpen in de Statistiek: module on Longitudinal Data Analysis (2025)
 
-This repository lists the datasets used during the short course on **Longitudinal Data Analysis** that I teach as part of **Onderwerpen in de Statistiek** (bachelor programme in Mathematics). The course material is available through Brightspace.
+This repository lists the datasets used during the short course on **Longitudinal Data Analysis** that I taught as part of **Onderwerpen in de Statistiek** (bachelor programme in Mathematics). The course material is available through Brightspace.
 
 ## Lecture 1
 
