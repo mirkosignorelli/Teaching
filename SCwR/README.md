@@ -1,6 +1,6 @@
-# Datasets and files for the course Statistical Computing with R
+# Datasets and files for the course Statistical Computing with R (2021-2024)
 
-This repository gathers the datasets used during the course **Statistical Computing with `R`** that I teach for the Master in Statistics and Data Science. The course material is available through Brightspace.
+This repository gathers the datasets used during the course **Statistical Computing with `R`** that I used to teach for the Master in Statistics and Data Science. The course material is available through Brightspace.
 
 ## Course material
 
