@@ -1,4 +1,4 @@
-# Datasets for Mathematical Statistics 2 (module on Longitudinal Data Analysis)
+# Datasets for Mathematical Statistics 2 (module on Longitudinal Data Analysis, 2022-2025)
 
 This repository lists the datasets used during the short course on **Longitudinal Data Analysis** that I used to teach as part of **Mathematical Statistics 2** (bachelor programme in Mathematics). The course material is available through Brightspace.
 
