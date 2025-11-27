@@ -44,5 +44,3 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 
 * `cold::bolus` and `MASS::nlschools` (L)
 * [union.txt](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/OidS/union.txt) (P)
-
-... tbc
