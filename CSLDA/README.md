@@ -4,43 +4,43 @@ This repository gathers the datasets used during the course *Computational Stati
 
 Did you notice that a dataset used during the course is missing on this page? Please send us an email to let us know!
 
-## Week 1
+## Lecture 1
 * `MASS::quine` (L)
 * `iris` (P)
 * [Coca Cola stock data](https://github.com/kalilurrahman/coca-colastockdata) (P)
 
-## Week 2
+## Lecture 2
 * `cars` (L+P)
 * `alr4::Rateprof` (L+P)
 * [rents.csv](https://raw.githubusercontent.com/mirkosignorelli/Teaching/main/MathStat2/rents.csv) (P)
 
-## Week 3
+## Lecture 3
 * [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L+P)
 
-## Week 4
+## Lecture 4
 * [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L+P)
 * `count::rwm1984` (L)
 * `faraway::gala` (P)
 
-## Week 8
+## Lecture 8
 
 * [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L)
 
 
-## Week 9
+## Lecture 9
 
 * Excel file used for the examples in L9: [dataframesForL09.xlsx](https://github.com/mirkosignorelli/Teaching/raw/refs/heads/main/CSLDA/dataframesForL09.xlsx)
 * `brolgar::wages` and `brolgar::heights` (L)
 
-## Week 10
+## Lecture 10
 
 * `brolgar::wages` (P) and `brolgar::heights` (L+P)
 
-## Week 11
+## Lecture 11
 
 * `cold::bolus` (L+P)
 
-## Week 12
+## Lecture 12
 
 * `cold::bolus` and `MASS::nlschools` (L)
 * [union.txt](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/OidS/union.txt) (P)
