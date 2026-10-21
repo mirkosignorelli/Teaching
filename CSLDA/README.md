@@ -43,7 +43,7 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 ## Lecture 12
 
 * `cold::bolus` and `MASS::nlschools` (L)
-* [union.txt](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/OidS/union.txt) (P)
+* [union.txt](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/TopicsInStat/union.txt) (P)
 
 ## Lecture 13
 
