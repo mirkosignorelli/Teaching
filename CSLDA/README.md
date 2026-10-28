@@ -25,7 +25,7 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 ## Lecture 8
 
 * [US election data](https://raw.githubusercontent.com/avehtari/ROS-Examples/535210007acc89087323ff71019c16f1771b3c5e/NES/data/nes.txt) (L)
-* `MASS:Pima.tr` (L+P)
+* `MASS:Pima.tr` and `MASS:Pima.tr` (L+P)
 
 ## Lecture 9
 
@@ -48,4 +48,4 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 ## Lecture 13
 
 * `cars` (L)
-* `MASS:Pima.tr` (L+P)
+* `MASS:Pima.tr` and `MASS:Pima.tr` (L+P)
