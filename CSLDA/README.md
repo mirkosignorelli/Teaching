@@ -48,4 +48,6 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 ## Lecture 13
 
 * `cars` (L)
-* `MASS:Pima.tr` and `MASS:Pima.tr` (L+P)
+* `MASS:Pima.tr` and `MASS:Pima.tr` (L)
+* `COUNT::rwm1984` (P)
+* `cold::bolus` (P)
