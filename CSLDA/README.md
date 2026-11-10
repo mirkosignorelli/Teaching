@@ -30,7 +30,7 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 ## Lecture 9
 
 * Excel file used for the examples in L9: [dataframesForL09.xlsx](https://github.com/mirkosignorelli/Teaching/raw/refs/heads/main/CSLDA/dataframesForL09.xlsx)
-* `brolgar::wages`
+* `brolgar::wages` (L)
 * `brolgar::heights` (L)
 
 ## Lecture 10
@@ -44,7 +44,8 @@ Did you notice that a dataset used during the course is missing on this page? Pl
 
 ## Lecture 12
 
-* `cold::bolus` and `MASS::nlschools` (L)
+* `cold::bolus` (L)
+* `MASS::nlschools` (L)
 * [union.txt](https://raw.githubusercontent.com/mirkosignorelli/Teaching/refs/heads/main/TopicsInStat/union.txt) (P)
 
 ## Lecture 13
